@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Component() {
   return (
-    <div className="flex h-screen bg-orange-600/90">
+    <div className="flex h-screen">
       <div className="hidden md:block bg-slate-800 p-8 w-2/5 relative">
         <div className="absolute inset-0 bg-opacity-50 bg-gray-900"></div>
         <div className="relative z-10">
